@@ -1,0 +1,4 @@
+html
+====
+
+musgle :   Musgle originates from the idea of combining words Music and Google. The idea is simple yet very powerful. To see Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results. Click on one of those results, and you will have a chance to directly download the song you are searching for - very smooth!    Although Musgle is not affiliated with Google, ALL its strength comes from it :) When searching for any kind of music (mp3, wma, wav, etc), Musgle calls Google for help by submitting a special search query to it, which is based on Advanced Google Search Operators. After Google does its hard work, it returns results with direct links to mp3, wma, wav, etc.. music files that can be downloaded directly with no hassle!  Good Luck! 
